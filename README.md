@@ -24,6 +24,8 @@ Quantumult X 原生重写版本，基于 [Maasea/sgmodule](https://github.com/Ma
 https://raw.githubusercontent.com/25175/quantumultx-youtube-music-enhance/main/YouTube.Enhance.conf, tag=YouTube Music Enhance（QX）, update-interval=86400, opt-parser=false, enabled=true
 ```
 
+本仓库只存放公开的 YouTube 重写资源，不存放任何个人 QX/Surge 完整配置、机场订阅、节点密码或证书。按 Surge 分组和订阅结构生成的本机私有 QX 配置位于用户的 Downloads 目录，不应上传到 GitHub。
+
 也可以直接将 `YouTube.Enhance.conf` 内容放入本地 `[rewrite_local]`，并把脚本文件保存到 Quantumult X 的脚本目录后，改为本地脚本路径。
 
 ## 重要说明
